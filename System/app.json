@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "myquiz",
+    "slug": "snack-8934700f-cac0-4cfb-aad0-139bd4c711b5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Quiz1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Quiz2.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
